@@ -1,0 +1,39 @@
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        #wrap {
+            width: 300px;
+            margin: 50px auto;
+            text-align: center;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        h1{
+            color: blue;
+            margin-bottom: 50px;
+        }
+        p {  
+            background: rgb(31, 94, 252);
+        }
+        ul {
+            list-style: none;
+            display: none;
+        }
+        a {
+            text-decoration: none;
+            color: #464646;
+        }
+        .menu a {
+            font-size: 20px;
+        }
+        li {
+            padding: 10px;
+            border-bottom: 1px solid rgb(231, 231, 231);
+
+        }
+        .menu {
+            border-bottom: 1px solid white;
+        }
+        p>a {
+            color: rgb(255, 255, 255);
+        }
